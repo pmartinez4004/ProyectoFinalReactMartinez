@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.articulos{
+    border: 2px solid lightgray;/*rgb(85, 83, 83);*/
+    background-color: white;
+    padding: 10;
+    margin: 10;
+    height: 290px;
+    width: 200px;
+}

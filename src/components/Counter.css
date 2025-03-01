@@ -1,0 +1,26 @@
+.moduloConteo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.displayContador{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tituloContador{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.moduloConteo button{
+    scale: 80%;
+    border: 2px solid grey;
+    padding: 10px 20px;
+    margin:10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+

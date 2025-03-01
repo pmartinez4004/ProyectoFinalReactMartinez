@@ -1,0 +1,9 @@
+.tarjetaDetalle {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: 2px solid gray;
+    width: 450px;
+}

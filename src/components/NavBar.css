@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    height: 70px;
+    width:100% ;
+    background-color: gray;
+}
+
+
+/*Brand*/
+
+header .BrandComponent{
+    width:20%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+/*Buttons*/
+
+header .ButttonComponents{
+    width:60%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}  
+
+
+/*CartWidget*/
+
+header .CartWidget{
+    width:20%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
