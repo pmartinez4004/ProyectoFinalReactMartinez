@@ -1,4 +1,4 @@
-import "./itemCart.css"
+import "./ItemCart.css"
 import { useContext } from "react"
 import { listCartContext } from '../context/ProductsContext';
 
