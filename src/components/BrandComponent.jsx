@@ -1,4 +1,4 @@
-import myImage from '../img/logoJr.jpg'; 
+import myImage from './../img/LogoJr.jpg'; 
 import './BrandComponent.css'
 
 export default function BrandComponent (){
