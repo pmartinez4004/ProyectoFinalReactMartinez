@@ -3,7 +3,7 @@ import ItemCart from "./ItemCart";
 import { useContext } from "react";
 import { controllerShowCart } from "../context/ContextCart";
 import { Link } from 'react-router-dom';
-//import Checkout from "./Checkout";
+
 
 import { listCartContext } from '../context/ProductsContext';
 const ContainerCart = () => {
