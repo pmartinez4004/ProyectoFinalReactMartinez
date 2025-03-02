@@ -39,8 +39,9 @@ Caso contrario copiar esta URL y pegarla en el navegador: `http://localhost:5173
 
 ## Despliegue
 
-El proyecto fue desplegado en Vercel para navegarlo.
-XXXXXXXX XXXX
+El proyecto fue desplegado en Vercel. Para acceder siga el siguiente vínculo:
+
+https://proyecto-final-react-2025-2.vercel.app/
 
 ## Screenshots
 ### Home
