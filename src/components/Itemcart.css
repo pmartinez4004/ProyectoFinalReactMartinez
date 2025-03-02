@@ -31,12 +31,6 @@
     transform: scale(0.6);
 }
 
-/*.itemCart{
-    background-color: rgb(26, 192, 26)
-}*/
-
-/* description */
-
 .itemCart .description-cantidad{
     display: flex;
     flex-direction: column;
